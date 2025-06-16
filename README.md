@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Punyamittal/phone/main/cooltext484771576458894.png" alt="Hi 👋, I'm Punya Mittal!" />
 </div>
 
-<h3 align="center">Tech crafter. Hackathon architect. Building futures with code & vision.</h3>
+<h3 align="center">𝕋𝕖𝕔𝕙 𝕔𝕣𝕒𝕗𝕥𝕖𝕣. ℍ𝕒𝕔𝕜𝕒𝕥𝕙𝕠𝕟 𝕒𝕣𝕔𝕙𝕚𝕥𝕖𝕔𝕥. 𝔹𝕦𝕚𝕝𝕕𝕚𝕟𝕘 𝕗𝕦𝕥𝕦𝕣𝕖𝕤 𝕨𝕚𝕥𝕙 𝕔𝕠𝕕𝕖 & 𝕧𝕚𝕤𝕚𝕠𝕟.</h3>
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="900">
