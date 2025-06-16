@@ -1,6 +1,9 @@
 <!-- README for Punya Mittal -->
 
-<h1 align="center">Hi 👋, I'm Punya Mittal!</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Punyamittal/phone/main/cooltext484771576458894.png" alt="Hi 👋, I'm Punya Mittal!" />
+</div>
+
 <h3 align="center">Tech crafter. Hackathon architect. Building futures with code & vision.</h3>
 
 <div align="center">
