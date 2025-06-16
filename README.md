@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punyamittal" alt="punyamittal" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/punya-mittal-a1122520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/punya-mittal-a1122520b/" height="30" width="40" /></a>
 <a href="https://instagram.com/_punya_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_punya_m" height="30" width="40" /></a>
 </p>
