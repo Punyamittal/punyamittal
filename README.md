@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Punya Mittal!</h1>
 <h3 align="center">Tech crafter. Hackathon architect. Building futures with code & vision.</h3>
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punyamittal&label=Profile%20views&color=0e75b6&style=flat" alt="punyamittal" /> </p>
 
