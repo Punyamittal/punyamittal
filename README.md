@@ -1,4 +1,4 @@
-<!-- README for Punya Mittal -->
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Punyamittal/phone/main/cooltext484771576458894.png" alt="Hi 👋, I'm Punya Mittal!" />
@@ -54,7 +54,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
 </p>
 
-<!-- GitHub Stats Section -->
 <div align="center">
   <table>
     <tr>
@@ -73,11 +72,7 @@
 </div>
 
 <br>
-
-<!-- Snake Contribution Graph -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/qh21/qh21/output/snake.svg" alt="Snake animation" width="100%"/>
 </div>
-
-<!-- End of README -->
 
