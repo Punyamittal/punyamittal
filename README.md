@@ -65,7 +65,7 @@
   </table>
 
   <br>
-
+  <img src="https://streak-stats.demolab.com/?user=punyamittal&theme=radical" alt="GitHub Streak" width="820"/>
   <!-- Fixed GitHub Streak -->
 
 </div>
