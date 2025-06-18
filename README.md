@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Punyamittal/phone/main/cooltext484771576458894.png" alt="Hi 👋, I'm Punya Mittal!" />
 </div>
@@ -68,11 +66,13 @@
 
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punyamittal&theme=radical" alt="GitHub Streak" width="820"/>
+  <!-- Fixed GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=punyamittal&theme=radical" alt="GitHub Streak" width="820"/>
 </div>
 
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/qh21/qh21/output/snake.svg" alt="Snake animation" width="100%"/>
 </div>
+
 
